@@ -1,0 +1,19 @@
+{
+  "name": "fajr-alarm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "better-sqlite3": "^12.2.0",
+    "openai": "^5.20.0",
+    "play-sound": "^1.1.6",
+    "say": "^0.16.0"
+  }
+}
